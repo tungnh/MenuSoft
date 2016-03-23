@@ -1,0 +1,60 @@
+﻿<Window x:Class="NewMenuSoft.Views.Category.CategoryTbl000"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="各種カテゴリ登録" Height="400" Width="500" KeyDown="Window_KeyDown">
+    <Grid Background="#bebebe">
+        <Label Content="各種カテゴリ登録" Foreground="White" HorizontalContentAlignment="Center"  HorizontalAlignment="Left" Margin="0" VerticalAlignment="Top" Width="192" BorderThickness="1" Background="#FFAE1A1A" FontWeight="Bold" FontSize="12"/>
+        <Button HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Margin="100,70,100,0" VerticalAlignment="Top" Height="40" Click="Button_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFFDF9F9" Offset="0.008"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <DockPanel LastChildFill="True" Height="30">
+                <TextBlock HorizontalAlignment="Left" VerticalAlignment="Center" Text="大カテゴリマスタ" Foreground="Black" FontSize="12"/>
+            </DockPanel>
+        </Button>
+        <Button HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Margin="100,130,100,0" VerticalAlignment="Top" Height="40">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFFDF9F9" Offset="0.008"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <DockPanel LastChildFill="True" Height="30">
+                <TextBlock HorizontalAlignment="Left" VerticalAlignment="Center" Text="中カテゴリマスタ" Foreground="Black" FontSize="12"/>
+            </DockPanel>
+        </Button>
+        <Button HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Margin="100,190,100,0" VerticalAlignment="Top" Height="40">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFFDF9F9" Offset="0.008"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <DockPanel LastChildFill="True" Height="30">
+                <TextBlock HorizontalAlignment="Left" VerticalAlignment="Center" Text="管理端末カテゴリマスタ" Foreground="Black" FontSize="12"/>
+            </DockPanel>
+        </Button>
+        <Button HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Margin="100,250,100,0" VerticalAlignment="Top" Height="40" Click="Button_Click_1">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFFDF9F9" Offset="0.008"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <DockPanel LastChildFill="True" Height="30">
+                <TextBlock HorizontalAlignment="Left" VerticalAlignment="Center" Text="閉じる(F12)" Foreground="Black" FontSize="12"/>
+            </DockPanel>
+        </Button>
+    </Grid>
+</Window>

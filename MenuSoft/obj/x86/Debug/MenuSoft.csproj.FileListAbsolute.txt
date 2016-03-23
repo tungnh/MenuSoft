@@ -1,0 +1,89 @@
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\NewMenuSoft\bin\Debug\NewMenuSoft.exe.config
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\NewMenuSoft\obj\x86\Debug\NewMenuSoft.exe
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\NewMenuSoft\obj\x86\Debug\NewMenuSoft.pdb
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\bin\Debug\NewMenuSoft.exe.config
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\NewMenuSoft.exe
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\NewMenuSoft.pdb
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\bin\Debug\NewMenuSoft.exe
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\bin\Debug\NewMenuSoft.pdb
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\bin\Debug\EntityFramework.dll
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\bin\Debug\Livet.dll
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\bin\Debug\System.Windows.Interactivity.dll
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\bin\Debug\EntityFramework.xml
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\bin\Debug\Livet.xml
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\MenuSoft.csprojResolveAssemblyReference.cache
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\Views\MainWindow.g.cs
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\Views\StoreMaster.g.cs
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\App.g.cs
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\NewMenuSoft_Content.g.cs
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\NewMenuSoft_MarkupCompile.cache
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\NewMenuSoft_MarkupCompile.lref
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\Views\MainWindow.baml
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\Views\StoreMaster.baml
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\NewMenuSoft.g.resources
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\NewMenuSoft.Properties.Resources.resources
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\MenuSoft\obj\x86\Debug\MenuSoft.csproj.GenerateResource.Cache
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\bin\Debug\NewMenuSoft.exe.config
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\NewMenuSoft.exe
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\NewMenuSoft.pdb
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\MenuSoft.csprojResolveAssemblyReference.cache
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\Views\MainWindow.g.cs
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\Views\StoreMaster.g.cs
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\App.g.cs
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\NewMenuSoft_Content.g.cs
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\NewMenuSoft_MarkupCompile.cache
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\NewMenuSoft_MarkupCompile.lref
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\bin\Debug\NewMenuSoft.exe
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\bin\Debug\NewMenuSoft.pdb
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\bin\Debug\EntityFramework.dll
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\bin\Debug\EntityFramework.SqlServer.dll
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\bin\Debug\Livet.dll
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\bin\Debug\System.Windows.Interactivity.dll
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\bin\Debug\EntityFramework.xml
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\bin\Debug\EntityFramework.SqlServer.xml
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\bin\Debug\Livet.xml
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\Views\MainWindow.baml
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\Views\StoreMaster.baml
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\NewMenuSoft.g.resources
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\NewMenuSoft.Properties.Resources.resources
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\MenuSoft.csproj.GenerateResource.Cache
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\Views\Category\CategoryTbl001.g.cs
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\Views\Category\CategoryTbl001.baml
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\Views\Category\CategoryTbl000.baml
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Development_20160322\MenuSoft\obj\x86\Debug\Views\Category\CategoryTbl000.g.cs
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\bin\Debug\NewMenuSoft.exe.config
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\NewMenuSoft.exe
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\NewMenuSoft.pdb
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\bin\Debug\NewMenuSoft.exe
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\bin\Debug\NewMenuSoft.pdb
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\bin\Debug\EntityFramework.dll
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\bin\Debug\EntityFramework.SqlServer.dll
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\bin\Debug\Livet.dll
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\bin\Debug\System.Windows.Interactivity.dll
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\bin\Debug\EntityFramework.xml
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\bin\Debug\EntityFramework.SqlServer.xml
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\bin\Debug\Livet.xml
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\MenuSoft.csprojResolveAssemblyReference.cache
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\Views\Category\CategoryTbl000.baml
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\Views\Category\CategoryTbl000.g.cs
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\Views\Category\CategoryTbl001.g.cs
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\Views\MainWindow.g.cs
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\Views\StoreMaster.g.cs
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\App.g.cs
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\NewMenuSoft_Content.g.cs
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\NewMenuSoft_MarkupCompile.cache
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\NewMenuSoft_MarkupCompile.lref
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\Views\Category\CategoryTbl001.baml
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\Views\MainWindow.baml
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\Views\StoreMaster.baml
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\NewMenuSoft.g.resources
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\NewMenuSoft.Properties.Resources.resources
+E:\Onsite\01. Beetsoft\TABLE_SHOT\MenuSoft\Project\Source\MenuSoft\MenuSoft\obj\x86\Debug\MenuSoft.csproj.GenerateResource.Cache

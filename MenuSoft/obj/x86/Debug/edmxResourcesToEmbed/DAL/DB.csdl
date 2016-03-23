@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MenuSoftDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CategoryTbl">
+    <Key>
+      <PropertyRef Name="TenpoCode" />
+      <PropertyRef Name="Category_Kubun" />
+      <PropertyRef Name="Category_Code" />
+    </Key>
+    <Property Name="C_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenpoCode" Type="Int32" Nullable="false" />
+    <Property Name="Category_Kubun" Type="Int32" Nullable="false" />
+    <Property Name="Category_Code" Type="Int32" Nullable="false" />
+    <Property Name="Category_Name" Type="String" MaxLength="128" FixedLength="false" Unicode="false" />
+    <Property Name="EtcCode1" Type="String" MaxLength="32" FixedLength="false" Unicode="false" />
+    <Property Name="EtcCode2" Type="String" MaxLength="32" FixedLength="false" Unicode="false" />
+    <Property Name="EtcCode3" Type="String" MaxLength="32" FixedLength="false" Unicode="false" />
+    <Property Name="EtcCode4" Type="String" MaxLength="32" FixedLength="false" Unicode="false" />
+    <Property Name="EtcCode5" Type="String" MaxLength="32" FixedLength="false" Unicode="false" />
+    <Property Name="EtcNum1" Type="Int32" />
+    <Property Name="EtcNum2" Type="Int32" />
+    <Property Name="EtcNum3" Type="Int32" />
+    <Property Name="EtcNum4" Type="Int32" />
+    <Property Name="EtcNum5" Type="Int32" />
+    <Property Name="AddDateTime" Type="String" MaxLength="15" FixedLength="true" Unicode="false" />
+    <Property Name="UpdDateTime" Type="String" MaxLength="15" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityType Name="MstProvine">
+    <Key>
+      <PropertyRef Name="ProvineCode" />
+    </Key>
+    <Property Name="ProvineCode" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ProvineName" Type="String" MaxLength="48" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CountryCode" Type="String" MaxLength="16" FixedLength="false" Unicode="true" />
+    <Property Name="AntiMoneyLaundering" Type="Int32" />
+    <Property Name="ProvineStatus" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TblShop">
+    <Key>
+      <PropertyRef Name="ShopID" />
+    </Key>
+    <Property Name="ShopID" Type="Decimal" Precision="18" Scale="0" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ShopCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ShopName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ShopStatus" Type="Int32" />
+    <Property Name="CreateDateTime" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="CreateUserID" Type="String" MaxLength="16" FixedLength="false" Unicode="false" />
+    <Property Name="UpdateDateTime" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="UpdateUserID" Type="String" MaxLength="16" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="MenuSoftDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CategoryTbls" EntityType="Self.CategoryTbl" />
+    <EntitySet Name="MstProvines" EntityType="Self.MstProvine" />
+    <EntitySet Name="TblShops" EntityType="Self.TblShop" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,55 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\Views\MainWindow.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\Views\StoreMaster.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\App.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft_Content.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft_MarkupCompile.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft_MarkupCompile.lref
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\bin\Debug\NewMenuSoft.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\bin\Debug\NewMenuSoft.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\bin\Debug\NewMenuSoft.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\bin\Debug\Livet.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\bin\Debug\Livet.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\Views\MainWindow.baml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\Views\StoreMaster.baml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft.g.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft.csprojResolveAssemblyReference.cache
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\bin\Debug\NewMenuSoft.exe.config
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft.exe
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft.pdb
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\bin\Debug\NewMenuSoft.exe
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\bin\Debug\NewMenuSoft.pdb
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\bin\Debug\EntityFramework.dll
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\bin\Debug\Livet.dll
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\bin\Debug\System.Windows.Interactivity.dll
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\bin\Debug\EntityFramework.xml
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\bin\Debug\Livet.xml
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft.csprojResolveAssemblyReference.cache
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\Views\MainWindow.g.cs
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\Views\StoreMaster.g.cs
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\App.g.cs
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft_Content.g.cs
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft_MarkupCompile.cache
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft_MarkupCompile.lref
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\Views\MainWindow.baml
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\Views\StoreMaster.baml
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft.g.resources
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft.Properties.Resources.resources
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Hung\20160318\NewMenuSoft\NewMenuSoft\obj\x86\Debug\NewMenuSoft.csproj.GenerateResource.Cache
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\NewMenuSoft\bin\Debug\NewMenuSoft.exe.config
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\NewMenuSoft\obj\x86\Debug\NewMenuSoft.exe
+D:\PROJECT_JAPAN\BeetSoft\03-Source\Development\NewMenuSoft\obj\x86\Debug\NewMenuSoft.pdb

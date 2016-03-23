@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MenuSoftDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CategoryTbl">
+    <Key>
+      <PropertyRef Name="TenpoCode" />
+      <PropertyRef Name="Category_Kubun" />
+      <PropertyRef Name="Category_Code" />
+    </Key>
+    <Property Name="_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenpoCode" Type="int" Nullable="false" />
+    <Property Name="Category_Kubun" Type="int" Nullable="false" />
+    <Property Name="Category_Code" Type="int" Nullable="false" />
+    <Property Name="Category_Name" Type="varchar" MaxLength="128" />
+    <Property Name="EtcCode1" Type="varchar" MaxLength="32" />
+    <Property Name="EtcCode2" Type="varchar" MaxLength="32" />
+    <Property Name="EtcCode3" Type="varchar" MaxLength="32" />
+    <Property Name="EtcCode4" Type="varchar" MaxLength="32" />
+    <Property Name="EtcCode5" Type="varchar" MaxLength="32" />
+    <Property Name="EtcNum1" Type="int" />
+    <Property Name="EtcNum2" Type="int" />
+    <Property Name="EtcNum3" Type="int" />
+    <Property Name="EtcNum4" Type="int" />
+    <Property Name="EtcNum5" Type="int" />
+    <Property Name="AddDateTime" Type="char" MaxLength="15" />
+    <Property Name="UpdDateTime" Type="char" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="MstProvine">
+    <Key>
+      <PropertyRef Name="ProvineCode" />
+    </Key>
+    <Property Name="ProvineCode" Type="nvarchar" MaxLength="16" Nullable="false" />
+    <Property Name="ProvineName" Type="nvarchar" MaxLength="48" Nullable="false" />
+    <Property Name="CountryCode" Type="nvarchar" MaxLength="16" />
+    <Property Name="AntiMoneyLaundering" Type="int" />
+    <Property Name="ProvineStatus" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TblShop">
+    <Key>
+      <PropertyRef Name="ShopID" />
+    </Key>
+    <Property Name="ShopID" Type="numeric" Precision="18" Scale="0" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ShopCode" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShopName" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="ShopStatus" Type="int" />
+    <Property Name="CreateDateTime" Type="varchar" MaxLength="15" />
+    <Property Name="CreateUserID" Type="varchar" MaxLength="16" />
+    <Property Name="UpdateDateTime" Type="varchar" MaxLength="15" />
+    <Property Name="UpdateUserID" Type="varchar" MaxLength="16" />
+  </EntityType>
+  <EntityContainer Name="MenuSoftDBModelStoreContainer">
+    <EntitySet Name="CategoryTbl" EntityType="Self.CategoryTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MstProvine" EntityType="Self.MstProvine" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TblShop" EntityType="Self.TblShop" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

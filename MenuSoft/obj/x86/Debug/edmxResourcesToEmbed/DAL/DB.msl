@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MenuSoftDBModelStoreContainer" CdmEntityContainer="MenuSoftDBEntities">
+    <EntitySetMapping Name="CategoryTbls">
+      <EntityTypeMapping TypeName="MenuSoftDBModel.CategoryTbl">
+        <MappingFragment StoreEntitySet="CategoryTbl">
+          <ScalarProperty Name="C_ID" ColumnName="_ID" />
+          <ScalarProperty Name="TenpoCode" ColumnName="TenpoCode" />
+          <ScalarProperty Name="Category_Kubun" ColumnName="Category_Kubun" />
+          <ScalarProperty Name="Category_Code" ColumnName="Category_Code" />
+          <ScalarProperty Name="Category_Name" ColumnName="Category_Name" />
+          <ScalarProperty Name="EtcCode1" ColumnName="EtcCode1" />
+          <ScalarProperty Name="EtcCode2" ColumnName="EtcCode2" />
+          <ScalarProperty Name="EtcCode3" ColumnName="EtcCode3" />
+          <ScalarProperty Name="EtcCode4" ColumnName="EtcCode4" />
+          <ScalarProperty Name="EtcCode5" ColumnName="EtcCode5" />
+          <ScalarProperty Name="EtcNum1" ColumnName="EtcNum1" />
+          <ScalarProperty Name="EtcNum2" ColumnName="EtcNum2" />
+          <ScalarProperty Name="EtcNum3" ColumnName="EtcNum3" />
+          <ScalarProperty Name="EtcNum4" ColumnName="EtcNum4" />
+          <ScalarProperty Name="EtcNum5" ColumnName="EtcNum5" />
+          <ScalarProperty Name="AddDateTime" ColumnName="AddDateTime" />
+          <ScalarProperty Name="UpdDateTime" ColumnName="UpdDateTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MstProvines">
+      <EntityTypeMapping TypeName="MenuSoftDBModel.MstProvine">
+        <MappingFragment StoreEntitySet="MstProvine">
+          <ScalarProperty Name="ProvineCode" ColumnName="ProvineCode" />
+          <ScalarProperty Name="ProvineName" ColumnName="ProvineName" />
+          <ScalarProperty Name="CountryCode" ColumnName="CountryCode" />
+          <ScalarProperty Name="AntiMoneyLaundering" ColumnName="AntiMoneyLaundering" />
+          <ScalarProperty Name="ProvineStatus" ColumnName="ProvineStatus" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblShops">
+      <EntityTypeMapping TypeName="MenuSoftDBModel.TblShop">
+        <MappingFragment StoreEntitySet="TblShop">
+          <ScalarProperty Name="ShopID" ColumnName="ShopID" />
+          <ScalarProperty Name="ShopCode" ColumnName="ShopCode" />
+          <ScalarProperty Name="ShopName" ColumnName="ShopName" />
+          <ScalarProperty Name="ShopStatus" ColumnName="ShopStatus" />
+          <ScalarProperty Name="CreateDateTime" ColumnName="CreateDateTime" />
+          <ScalarProperty Name="CreateUserID" ColumnName="CreateUserID" />
+          <ScalarProperty Name="UpdateDateTime" ColumnName="UpdateDateTime" />
+          <ScalarProperty Name="UpdateUserID" ColumnName="UpdateUserID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
