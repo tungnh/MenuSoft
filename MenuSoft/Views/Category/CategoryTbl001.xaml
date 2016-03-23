@@ -52,6 +52,7 @@
             CanUserAddRows="False"
             GotFocus="dgCategory_GotFocus" 
             ItemsSource="{Binding Categorys}"
+            SelectedItem="{Binding SelectedItem}"
             SelectionMode="Single">
             <DataGrid.Columns  >
                 <DataGridTemplateColumn Header="コード" Width="150" IsReadOnly="True"  >

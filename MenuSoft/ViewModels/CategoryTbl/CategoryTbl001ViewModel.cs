@@ -122,7 +122,9 @@ namespace NewMenuSoft.ViewModels
 
         private void LoadForm()
         {
+            //SelectedItem = _categoryTblService.GetAll().Where(c => c.Category_Kubun == 0).SingleOrDefault();
             SelectCategory();
+            SelectedItem = Categorys[3];
         }
 
         public void SelectCategory()
@@ -132,6 +134,7 @@ namespace NewMenuSoft.ViewModels
 
         public void UpdateCategory(int categoryCode)
         {
+            var a = SelectedItem;
             try
             {
                 var categoryInfo = _categoryTblService.FindCategory(fix_tenpo, 0, int.Parse(Category_Code));
